@@ -1,2 +1,2 @@
-# tapgesture-longpressgesture
-TagGesture y LongPressGesture en swiftui. Clase 17
+# TapGesture y LongPressGesture
+Clase 17 TagGesture y LongPressGesture en swiftui. El código fuente se puede descargar en el branch "master"
